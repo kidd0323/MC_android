@@ -1,0 +1,1079 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/mcclient/!svn/ver/40/trunk/mcClient/bin/classes/com/client/view
+END
+CommentBlogView$CommentTask.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/mcclient/!svn/ver/3/trunk/mcClient/bin/classes/com/client/view/CommentBlogView$CommentTask.class
+END
+BlogCommentsView$4.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/mcclient/!svn/ver/33/trunk/mcClient/bin/classes/com/client/view/BlogCommentsView$4.class
+END
+MsgDealView$PrivateMsgLVAdapter$viewHolder.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/mcclient/!svn/ver/3/trunk/mcClient/bin/classes/com/client/view/MsgDealView$PrivateMsgLVAdapter$viewHolder.class
+END
+ChatView$ChatLVAdapter$viewHolder.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/mcclient/!svn/ver/19/trunk/mcClient/bin/classes/com/client/view/ChatView$ChatLVAdapter$viewHolder.class
+END
+MsgDealView$CmtLVAdapter$viewHolder.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/mcclient/!svn/ver/3/trunk/mcClient/bin/classes/com/client/view/MsgDealView$CmtLVAdapter$viewHolder.class
+END
+ChannelView$ADMessageHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/mcclient/!svn/ver/40/trunk/mcClient/bin/classes/com/client/view/ChannelView$ADMessageHandler.class
+END
+feedback$FeedbackTask.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/mcclient/!svn/ver/3/trunk/mcClient/bin/classes/com/client/view/feedback$FeedbackTask.class
+END
+PostBlogView$PostTask.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/mcclient/!svn/ver/3/trunk/mcClient/bin/classes/com/client/view/PostBlogView$PostTask.class
+END
+CommentView$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mcclient/!svn/ver/3/trunk/mcClient/bin/classes/com/client/view/CommentView$2.class
+END
+PostBlogView.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mcclient/!svn/ver/26/trunk/mcClient/bin/classes/com/client/view/PostBlogView.class
+END
+feedback.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/mcclient/!svn/ver/26/trunk/mcClient/bin/classes/com/client/view/feedback.class
+END
+ChannelView$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/mcclient/!svn/ver/40/trunk/mcClient/bin/classes/com/client/view/ChannelView$2.class
+END
+MsgDealView$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mcclient/!svn/ver/3/trunk/mcClient/bin/classes/com/client/view/MsgDealView$1.class
+END
+ChannelView$6.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/mcclient/!svn/ver/40/trunk/mcClient/bin/classes/com/client/view/ChannelView$6.class
+END
+BlocksView$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mcclient/!svn/ver/3/trunk/mcClient/bin/classes/com/client/view/BlocksView$2.class
+END
+MsgDealView$5.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mcclient/!svn/ver/3/trunk/mcClient/bin/classes/com/client/view/MsgDealView$5.class
+END
+picshow$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mcclient/!svn/ver/18/trunk/mcClient/bin/classes/com/client/view/picshow$2.class
+END
+password.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/mcclient/!svn/ver/26/trunk/mcClient/bin/classes/com/client/view/password.class
+END
+BlogView$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/mcclient/!svn/ver/33/trunk/mcClient/bin/classes/com/client/view/BlogView$1.class
+END
+web$4.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mcclient/!svn/ver/3/trunk/mcClient/bin/classes/com/client/view/web$4.class
+END
+BlogCommentsView$BitmapManager$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/mcclient/!svn/ver/33/trunk/mcClient/bin/classes/com/client/view/BlogCommentsView$BitmapManager$2.class
+END
+BlocksView$UADMessageHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/mcclient/!svn/ver/6/trunk/mcClient/bin/classes/com/client/view/BlocksView$UADMessageHandler.class
+END
+inviteFriend$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/mcclient/!svn/ver/3/trunk/mcClient/bin/classes/com/client/view/inviteFriend$1.class
+END
+modify$4.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/mcclient/!svn/ver/11/trunk/mcClient/bin/classes/com/client/view/modify$4.class
+END
+MyCampusView$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/mcclient/!svn/ver/40/trunk/mcClient/bin/classes/com/client/view/MyCampusView$3.class
+END
+ChannelView$6$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/mcclient/!svn/ver/40/trunk/mcClient/bin/classes/com/client/view/ChannelView$6$1.class
+END
+set$4.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mcclient/!svn/ver/3/trunk/mcClient/bin/classes/com/client/view/set$4.class
+END
+ChannelView$BitmapManager$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/mcclient/!svn/ver/40/trunk/mcClient/bin/classes/com/client/view/ChannelView$BitmapManager$1.class
+END
+set$8.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mcclient/!svn/ver/3/trunk/mcClient/bin/classes/com/client/view/set$8.class
+END
+password$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mcclient/!svn/ver/3/trunk/mcClient/bin/classes/com/client/view/password$2.class
+END
+BlogCommentsView$CmtLVAdapter$GetImageTask.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/mcclient/!svn/ver/33/trunk/mcClient/bin/classes/com/client/view/BlogCommentsView$CmtLVAdapter$GetImageTask.class
+END
+LoginView$4.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mcclient/!svn/ver/40/trunk/mcClient/bin/classes/com/client/view/LoginView$4.class
+END
+CommentView.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mcclient/!svn/ver/26/trunk/mcClient/bin/classes/com/client/view/CommentView.class
+END
+BlogView$BitmapManager$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/mcclient/!svn/ver/33/trunk/mcClient/bin/classes/com/client/view/BlogView$BitmapManager$1.class
+END
+ChatView$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/mcclient/!svn/ver/18/trunk/mcClient/bin/classes/com/client/view/ChatView$3.class
+END
+MsgDealView$CmtLVAdapter$replyListener.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/mcclient/!svn/ver/6/trunk/mcClient/bin/classes/com/client/view/MsgDealView$CmtLVAdapter$replyListener.class
+END
+StartView$LoginTask.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/mcclient/!svn/ver/3/trunk/mcClient/bin/classes/com/client/view/StartView$LoginTask.class
+END
+ChatView$ChatLVAdapter$GetImageTask.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/mcclient/!svn/ver/18/trunk/mcClient/bin/classes/com/client/view/ChatView$ChatLVAdapter$GetImageTask.class
+END
+BlogCommentsView$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/mcclient/!svn/ver/33/trunk/mcClient/bin/classes/com/client/view/BlogCommentsView$3.class
+END
+ChatView$ChatHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/mcclient/!svn/ver/18/trunk/mcClient/bin/classes/com/client/view/ChatView$ChatHandler.class
+END
+ChannelView$BlogLVAdapter.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/mcclient/!svn/ver/40/trunk/mcClient/bin/classes/com/client/view/ChannelView$BlogLVAdapter.class
+END
+ChatView$ChatLVAdapter.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/mcclient/!svn/ver/30/trunk/mcClient/bin/classes/com/client/view/ChatView$ChatLVAdapter.class
+END
+CommentView$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mcclient/!svn/ver/3/trunk/mcClient/bin/classes/com/client/view/CommentView$1.class
+END
+ForwardView$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mcclient/!svn/ver/3/trunk/mcClient/bin/classes/com/client/view/ForwardView$1.class
+END
+inviteFriend$InviteFriendTask.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/mcclient/!svn/ver/3/trunk/mcClient/bin/classes/com/client/view/inviteFriend$InviteFriendTask.class
+END
+guidetwo.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/mcclient/!svn/ver/22/trunk/mcClient/bin/classes/com/client/view/guidetwo.class
+END
+modify.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mcclient/!svn/ver/26/trunk/mcClient/bin/classes/com/client/view/modify.class
+END
+ChannelView$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/mcclient/!svn/ver/40/trunk/mcClient/bin/classes/com/client/view/ChannelView$1.class
+END
+BlogCommentsView$LoadCmtHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/mcclient/!svn/ver/33/trunk/mcClient/bin/classes/com/client/view/BlogCommentsView$LoadCmtHandler.class
+END
+set.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/mcclient/!svn/ver/26/trunk/mcClient/bin/classes/com/client/view/set.class
+END
+ChannelView$5.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/mcclient/!svn/ver/40/trunk/mcClient/bin/classes/com/client/view/ChannelView$5.class
+END
+BlocksView$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mcclient/!svn/ver/26/trunk/mcClient/bin/classes/com/client/view/BlocksView$1.class
+END
+guide.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/mcclient/!svn/ver/26/trunk/mcClient/bin/classes/com/client/view/guide.class
+END
+MsgDealView$4.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mcclient/!svn/ver/3/trunk/mcClient/bin/classes/com/client/view/MsgDealView$4.class
+END
+ChannelView$9.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/mcclient/!svn/ver/40/trunk/mcClient/bin/classes/com/client/view/ChannelView$9.class
+END
+picshow$FetchGalleryImageTask.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/mcclient/!svn/ver/30/trunk/mcClient/bin/classes/com/client/view/picshow$FetchGalleryImageTask.class
+END
+picshow$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mcclient/!svn/ver/18/trunk/mcClient/bin/classes/com/client/view/picshow$1.class
+END
+MsgDealView$BitmapManager.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/mcclient/!svn/ver/3/trunk/mcClient/bin/classes/com/client/view/MsgDealView$BitmapManager.class
+END
+MsgDealView$8.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mcclient/!svn/ver/3/trunk/mcClient/bin/classes/com/client/view/MsgDealView$8.class
+END
+LoginView.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mcclient/!svn/ver/40/trunk/mcClient/bin/classes/com/client/view/LoginView.class
+END
+web$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mcclient/!svn/ver/3/trunk/mcClient/bin/classes/com/client/view/web$3.class
+END
+BlogCommentsView$BitmapManager$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/mcclient/!svn/ver/33/trunk/mcClient/bin/classes/com/client/view/BlogCommentsView$BitmapManager$1.class
+END
+modify$LoadRegionsTask.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/mcclient/!svn/ver/22/trunk/mcClient/bin/classes/com/client/view/modify$LoadRegionsTask.class
+END
+BlogView$4.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/mcclient/!svn/ver/33/trunk/mcClient/bin/classes/com/client/view/BlogView$4.class
+END
+ChatView$ChatThread.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/mcclient/!svn/ver/18/trunk/mcClient/bin/classes/com/client/view/ChatView$ChatThread.class
+END
+ChannelView$BlogLVAdapter$GetImageTask.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/mcclient/!svn/ver/40/trunk/mcClient/bin/classes/com/client/view/ChannelView$BlogLVAdapter$GetImageTask.class
+END
+ChatView.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/mcclient/!svn/ver/26/trunk/mcClient/bin/classes/com/client/view/ChatView.class
+END
+ForwardView$ForwardTask.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/mcclient/!svn/ver/22/trunk/mcClient/bin/classes/com/client/view/ForwardView$ForwardTask.class
+END
+modify$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/mcclient/!svn/ver/11/trunk/mcClient/bin/classes/com/client/view/modify$3.class
+END
+MyCampusView$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/mcclient/!svn/ver/40/trunk/mcClient/bin/classes/com/client/view/MyCampusView$2.class
+END
+set$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mcclient/!svn/ver/3/trunk/mcClient/bin/classes/com/client/view/set$3.class
+END
+guide$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mcclient/!svn/ver/3/trunk/mcClient/bin/classes/com/client/view/guide$1.class
+END
+BlocksView$4$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/mcclient/!svn/ver/3/trunk/mcClient/bin/classes/com/client/view/BlocksView$4$1.class
+END
+set$7.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mcclient/!svn/ver/3/trunk/mcClient/bin/classes/com/client/view/set$7.class
+END
+password$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mcclient/!svn/ver/3/trunk/mcClient/bin/classes/com/client/view/password$1.class
+END
+LoginView$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mcclient/!svn/ver/16/trunk/mcClient/bin/classes/com/client/view/LoginView$3.class
+END
+BlogCommentsView$CmtLVAdapter$viewHolder.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/mcclient/!svn/ver/33/trunk/mcClient/bin/classes/com/client/view/BlogCommentsView$CmtLVAdapter$viewHolder.class
+END
+BlogCommentsView$CmtLVAdapter.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/mcclient/!svn/ver/33/trunk/mcClient/bin/classes/com/client/view/BlogCommentsView$CmtLVAdapter.class
+END
+ChatView$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/mcclient/!svn/ver/18/trunk/mcClient/bin/classes/com/client/view/ChatView$2.class
+END
+MyGallery.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/mcclient/!svn/ver/3/trunk/mcClient/bin/classes/com/client/view/MyGallery.class
+END
+ChatView$BitmapManager.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/mcclient/!svn/ver/18/trunk/mcClient/bin/classes/com/client/view/ChatView$BitmapManager.class
+END
+MsgDealView.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mcclient/!svn/ver/30/trunk/mcClient/bin/classes/com/client/view/MsgDealView.class
+END
+BlocksView.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/mcclient/!svn/ver/26/trunk/mcClient/bin/classes/com/client/view/BlocksView.class
+END
+BlogCommentsView$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/mcclient/!svn/ver/33/trunk/mcClient/bin/classes/com/client/view/BlogCommentsView$2.class
+END
+picshow.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/mcclient/!svn/ver/30/trunk/mcClient/bin/classes/com/client/view/picshow.class
+END
+MsgDealView$CmtLVAdapter$GetImageTask.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/mcclient/!svn/ver/6/trunk/mcClient/bin/classes/com/client/view/MsgDealView$CmtLVAdapter$GetImageTask.class
+END
+StartView$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/mcclient/!svn/ver/3/trunk/mcClient/bin/classes/com/client/view/StartView$1.class
+END
+ChannelView$LoadMonitor.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/mcclient/!svn/ver/40/trunk/mcClient/bin/classes/com/client/view/ChannelView$LoadMonitor.class
+END
+BlogCommentsView$BitmapManager.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/mcclient/!svn/ver/33/trunk/mcClient/bin/classes/com/client/view/BlogCommentsView$BitmapManager.class
+END
+ChatView$LoadChatHandleThread.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/mcclient/!svn/ver/18/trunk/mcClient/bin/classes/com/client/view/ChatView$LoadChatHandleThread.class
+END
+BlogCommentsView$CmtLVAdapter$replyListener.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/mcclient/!svn/ver/33/trunk/mcClient/bin/classes/com/client/view/BlogCommentsView$CmtLVAdapter$replyListener.class
+END
+MyCampusView.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mcclient/!svn/ver/40/trunk/mcClient/bin/classes/com/client/view/MyCampusView.class
+END
+MsgDealView$LoadCmtMsgHandleThread.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/mcclient/!svn/ver/3/trunk/mcClient/bin/classes/com/client/view/MsgDealView$LoadCmtMsgHandleThread.class
+END
+ChannelView$4.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/mcclient/!svn/ver/40/trunk/mcClient/bin/classes/com/client/view/ChannelView$4.class
+END
+MsgDealView$LoadPriMsgHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/mcclient/!svn/ver/6/trunk/mcClient/bin/classes/com/client/view/MsgDealView$LoadPriMsgHandler.class
+END
+ChatView$BitmapManager$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/mcclient/!svn/ver/18/trunk/mcClient/bin/classes/com/client/view/ChatView$BitmapManager$2.class
+END
+MsgDealView$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mcclient/!svn/ver/3/trunk/mcClient/bin/classes/com/client/view/MsgDealView$3.class
+END
+ChannelView$BitmapManager.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/mcclient/!svn/ver/40/trunk/mcClient/bin/classes/com/client/view/ChannelView$BitmapManager.class
+END
+ChannelView$8.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/mcclient/!svn/ver/40/trunk/mcClient/bin/classes/com/client/view/ChannelView$8.class
+END
+BlocksView$4.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mcclient/!svn/ver/3/trunk/mcClient/bin/classes/com/client/view/BlocksView$4.class
+END
+ChannelView$LoadBlogsHandleThread.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/mcclient/!svn/ver/40/trunk/mcClient/bin/classes/com/client/view/ChannelView$LoadBlogsHandleThread.class
+END
+MsgDealView$7.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mcclient/!svn/ver/3/trunk/mcClient/bin/classes/com/client/view/MsgDealView$7.class
+END
+web$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mcclient/!svn/ver/3/trunk/mcClient/bin/classes/com/client/view/web$2.class
+END
+picshow$4.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/mcclient/!svn/ver/3/trunk/mcClient/bin/classes/com/client/view/picshow$4.class
+END
+BlogView$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/mcclient/!svn/ver/33/trunk/mcClient/bin/classes/com/client/view/BlogView$3.class
+END
+web$6.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mcclient/!svn/ver/3/trunk/mcClient/bin/classes/com/client/view/web$6.class
+END
+MyCampusView$LoadRegionsTask.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/mcclient/!svn/ver/40/trunk/mcClient/bin/classes/com/client/view/MyCampusView$LoadRegionsTask.class
+END
+picshow$MyViewFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/mcclient/!svn/ver/18/trunk/mcClient/bin/classes/com/client/view/picshow$MyViewFactory.class
+END
+feedback$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mcclient/!svn/ver/3/trunk/mcClient/bin/classes/com/client/view/feedback$2.class
+END
+about.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mcclient/!svn/ver/3/trunk/mcClient/bin/classes/com/client/view/about.class
+END
+ChatView$LoadChatHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/mcclient/!svn/ver/18/trunk/mcClient/bin/classes/com/client/view/ChatView$LoadChatHandler.class
+END
+modify$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/mcclient/!svn/ver/11/trunk/mcClient/bin/classes/com/client/view/modify$2.class
+END
+MyCampusView$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/mcclient/!svn/ver/40/trunk/mcClient/bin/classes/com/client/view/MyCampusView$1.class
+END
+MsgDealView$PrivateMsgLVAdapter.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/mcclient/!svn/ver/30/trunk/mcClient/bin/classes/com/client/view/MsgDealView$PrivateMsgLVAdapter.class
+END
+set$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mcclient/!svn/ver/3/trunk/mcClient/bin/classes/com/client/view/set$2.class
+END
+picshow$FetchBlogTask.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/mcclient/!svn/ver/18/trunk/mcClient/bin/classes/com/client/view/picshow$FetchBlogTask.class
+END
+MyCampusView$5.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/mcclient/!svn/ver/40/trunk/mcClient/bin/classes/com/client/view/MyCampusView$5.class
+END
+LoginView$LoginTask.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/mcclient/!svn/ver/40/trunk/mcClient/bin/classes/com/client/view/LoginView$LoginTask.class
+END
+MsgDealView$LoadCmtMsgHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/mcclient/!svn/ver/6/trunk/mcClient/bin/classes/com/client/view/MsgDealView$LoadCmtMsgHandler.class
+END
+set$6.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mcclient/!svn/ver/3/trunk/mcClient/bin/classes/com/client/view/set$6.class
+END
+picshow$PicFetch.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/mcclient/!svn/ver/18/trunk/mcClient/bin/classes/com/client/view/picshow$PicFetch.class
+END
+StartView.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mcclient/!svn/ver/22/trunk/mcClient/bin/classes/com/client/view/StartView.class
+END
+BlogView$1$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mcclient/!svn/ver/33/trunk/mcClient/bin/classes/com/client/view/BlogView$1$1.class
+END
+LoginView$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mcclient/!svn/ver/16/trunk/mcClient/bin/classes/com/client/view/LoginView$2.class
+END
+MsgDealView$BitmapManager$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/mcclient/!svn/ver/3/trunk/mcClient/bin/classes/com/client/view/MsgDealView$BitmapManager$2.class
+END
+ChannelView$LoadBlogsHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/mcclient/!svn/ver/40/trunk/mcClient/bin/classes/com/client/view/ChannelView$LoadBlogsHandler.class
+END
+ChatView$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/mcclient/!svn/ver/18/trunk/mcClient/bin/classes/com/client/view/ChatView$1.class
+END
+ForwardView.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mcclient/!svn/ver/26/trunk/mcClient/bin/classes/com/client/view/ForwardView.class
+END
+ChannelView.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mcclient/!svn/ver/40/trunk/mcClient/bin/classes/com/client/view/ChannelView.class
+END
+BlogCommentsView$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/mcclient/!svn/ver/33/trunk/mcClient/bin/classes/com/client/view/BlogCommentsView$1.class
+END
+BlogCommentsView$5.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/mcclient/!svn/ver/33/trunk/mcClient/bin/classes/com/client/view/BlogCommentsView$5.class
+END
+web.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/mcclient/!svn/ver/26/trunk/mcClient/bin/classes/com/client/view/web.class
+END
+BlogView.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/mcclient/!svn/ver/33/trunk/mcClient/bin/classes/com/client/view/BlogView.class
+END
+ChannelView$ADHandleThread.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/mcclient/!svn/ver/40/trunk/mcClient/bin/classes/com/client/view/ChannelView$ADHandleThread.class
+END
+MsgDealView$PrivateMsgLVAdapter$PriReplyListener.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/mcclient/!svn/ver/6/trunk/mcClient/bin/classes/com/client/view/MsgDealView$PrivateMsgLVAdapter$PriReplyListener.class
+END
+CommentView$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mcclient/!svn/ver/3/trunk/mcClient/bin/classes/com/client/view/CommentView$3.class
+END
+OriginalImgView$GetImageTask.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/mcclient/!svn/ver/12/trunk/mcClient/bin/classes/com/client/view/OriginalImgView$GetImageTask.class
+END
+BlocksView$BADMessageHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/mcclient/!svn/ver/6/trunk/mcClient/bin/classes/com/client/view/BlocksView$BADMessageHandler.class
+END
+inviteFriend.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mcclient/!svn/ver/26/trunk/mcClient/bin/classes/com/client/view/inviteFriend.class
+END
+MyCampusView$HangAroundTask.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/mcclient/!svn/ver/40/trunk/mcClient/bin/classes/com/client/view/MyCampusView$HangAroundTask.class
+END
+modify$LoadCampusTask.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/mcclient/!svn/ver/22/trunk/mcClient/bin/classes/com/client/view/modify$LoadCampusTask.class
+END
+MyCampusView$LoadCampusTask.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/mcclient/!svn/ver/40/trunk/mcClient/bin/classes/com/client/view/MyCampusView$LoadCampusTask.class
+END
+ChannelView$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/mcclient/!svn/ver/40/trunk/mcClient/bin/classes/com/client/view/ChannelView$3.class
+END
+ChatView$BitmapManager$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/mcclient/!svn/ver/18/trunk/mcClient/bin/classes/com/client/view/ChatView$BitmapManager$1.class
+END
+MsgDealView$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mcclient/!svn/ver/3/trunk/mcClient/bin/classes/com/client/view/MsgDealView$2.class
+END
+BlogCommentsView$1$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/mcclient/!svn/ver/33/trunk/mcClient/bin/classes/com/client/view/BlogCommentsView$1$1.class
+END
+ChannelView$7.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/mcclient/!svn/ver/40/trunk/mcClient/bin/classes/com/client/view/ChannelView$7.class
+END
+BlocksView$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mcclient/!svn/ver/3/trunk/mcClient/bin/classes/com/client/view/BlocksView$3.class
+END
+MsgDealView$LoadPriMsgHandleThread.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/mcclient/!svn/ver/3/trunk/mcClient/bin/classes/com/client/view/MsgDealView$LoadPriMsgHandleThread.class
+END
+MsgDealView$6.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mcclient/!svn/ver/3/trunk/mcClient/bin/classes/com/client/view/MsgDealView$6.class
+END
+CommentBlogView.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/mcclient/!svn/ver/26/trunk/mcClient/bin/classes/com/client/view/CommentBlogView.class
+END
+web$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mcclient/!svn/ver/3/trunk/mcClient/bin/classes/com/client/view/web$1.class
+END
+picshow$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mcclient/!svn/ver/18/trunk/mcClient/bin/classes/com/client/view/picshow$3.class
+END
+BlogView$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/mcclient/!svn/ver/33/trunk/mcClient/bin/classes/com/client/view/BlogView$2.class
+END
+web$5.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mcclient/!svn/ver/3/trunk/mcClient/bin/classes/com/client/view/web$5.class
+END
+BlogView$GetImageTask.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/mcclient/!svn/ver/33/trunk/mcClient/bin/classes/com/client/view/BlogView$GetImageTask.class
+END
+PostBlogView$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/mcclient/!svn/ver/3/trunk/mcClient/bin/classes/com/client/view/PostBlogView$1.class
+END
+feedback$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mcclient/!svn/ver/3/trunk/mcClient/bin/classes/com/client/view/feedback$1.class
+END
+BlogView$BitmapManager.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/mcclient/!svn/ver/33/trunk/mcClient/bin/classes/com/client/view/BlogView$BitmapManager.class
+END
+ChannelView$BlogLVAdapter$viewHolder.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/mcclient/!svn/ver/40/trunk/mcClient/bin/classes/com/client/view/ChannelView$BlogLVAdapter$viewHolder.class
+END
+inviteFriend$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/mcclient/!svn/ver/3/trunk/mcClient/bin/classes/com/client/view/inviteFriend$2.class
+END
+modify$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/mcclient/!svn/ver/11/trunk/mcClient/bin/classes/com/client/view/modify$1.class
+END
+modify$5.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/mcclient/!svn/ver/11/trunk/mcClient/bin/classes/com/client/view/modify$5.class
+END
+set$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mcclient/!svn/ver/3/trunk/mcClient/bin/classes/com/client/view/set$1.class
+END
+MyCampusView$4.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/mcclient/!svn/ver/40/trunk/mcClient/bin/classes/com/client/view/MyCampusView$4.class
+END
+MsgDealView$CmtLVAdapter.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/mcclient/!svn/ver/30/trunk/mcClient/bin/classes/com/client/view/MsgDealView$CmtLVAdapter.class
+END
+BlogCommentsView.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/mcclient/!svn/ver/33/trunk/mcClient/bin/classes/com/client/view/BlogCommentsView.class
+END
+picshow$ImageAdapter.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/mcclient/!svn/ver/26/trunk/mcClient/bin/classes/com/client/view/picshow$ImageAdapter.class
+END
+set$5.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mcclient/!svn/ver/3/trunk/mcClient/bin/classes/com/client/view/set$5.class
+END
+BlocksView$ADHandleThread.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/mcclient/!svn/ver/3/trunk/mcClient/bin/classes/com/client/view/BlocksView$ADHandleThread.class
+END
+ChannelView$BitmapManager$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/mcclient/!svn/ver/40/trunk/mcClient/bin/classes/com/client/view/ChannelView$BitmapManager$2.class
+END
+CommentBlogView$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/mcclient/!svn/ver/3/trunk/mcClient/bin/classes/com/client/view/CommentBlogView$1.class
+END
+MsgDealView$BitmapManager$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/mcclient/!svn/ver/3/trunk/mcClient/bin/classes/com/client/view/MsgDealView$BitmapManager$1.class
+END
+LoginView$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mcclient/!svn/ver/16/trunk/mcClient/bin/classes/com/client/view/LoginView$1.class
+END
+OriginalImgView.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/mcclient/!svn/ver/26/trunk/mcClient/bin/classes/com/client/view/OriginalImgView.class
+END
+LoginView$5.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mcclient/!svn/ver/40/trunk/mcClient/bin/classes/com/client/view/LoginView$5.class
+END
+BlogView$BitmapManager$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/mcclient/!svn/ver/33/trunk/mcClient/bin/classes/com/client/view/BlogView$BitmapManager$2.class
+END
+BlogCommentsView$LoadCmtHandleThread.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/mcclient/!svn/ver/33/trunk/mcClient/bin/classes/com/client/view/BlogCommentsView$LoadCmtHandleThread.class
+END
+MsgDealView$PrivateMsgLVAdapter$GetImageTask.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/mcclient/!svn/ver/6/trunk/mcClient/bin/classes/com/client/view/MsgDealView$PrivateMsgLVAdapter$GetImageTask.class
+END

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_channel"
+    android:orientation="vertical">
+   
+    <LinearLayout
+        android:id="@+id/linearLayout3"
+        android:layout_width="match_parent"
+        android:layout_height="430dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="5dp"
+        android:orientation="vertical">
+
+	    <LinearLayout
+	        android:id="@+id/linearLayout1"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_gravity="center"
+	        android:layout_marginLeft="10dp"
+	        android:layout_marginRight="10dp"
+	        android:layout_marginTop="1dp" >
+
+	        <TextView
+	            android:id="@+id/author"
+	            android:layout_width="200dp"
+	            android:layout_height="wrap_content"
+	            android:layout_gravity="center"
+	            android:layout_marginLeft="90dp"
+	            android:ellipsize="marquee"
+	            android:gravity="center_vertical"
+	            android:singleLine="true"
+	            android:text="@string/author"
+	            android:textColor="@drawable/black"
+	            android:textSize="20sp" />
+
+	        <Button
+	            android:id="@+id/refresh"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_marginLeft="90dp"
+	            android:background="@drawable/button_refreshb" />
+
+	    </LinearLayout>
+
+	    <LinearLayout
+	        android:id="@+id/linearLayout4"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:orientation="vertical">
+	        <LinearLayout
+	            android:id="@+id/llTitle"
+	            android:layout_width="match_parent"
+	        	android:layout_height="120dp"
+	        	android:orientation="horizontal" >
+		        <ImageView
+		            android:id="@+id/blogphoto"
+		            android:layout_width="50dp"
+		            android:layout_height="50dp"
+		            android:layout_marginLeft="5dp"
+		            android:layout_marginTop="5dp"
+		            android:scaleType="centerInside"
+		            android:src="@drawable/default_head" />
+		        <TextView
+		            android:id="@+id/content"
+		            android:layout_width="match_parent"
+		            android:layout_height="match_parent"
+		            android:layout_marginLeft="10dp"
+		            android:layout_marginTop="5dp"
+		            android:text="@string/content"
+		            android:textColor="@drawable/black" />
+			</LinearLayout>
+			
+		    <LinearLayout
+		        android:id="@+id/linearLayout_blog"
+		        android:layout_width="match_parent"
+		        android:layout_height="230dp"
+		        android:layout_marginLeft="5dp"
+		        android:layout_marginRight="15dp"
+		        android:layout_marginTop="12dp"
+		        android:layout_gravity="center_horizontal"
+		        android:orientation="vertical"
+		        android:scrollbars="horizontal" >
+	
+		        <ImageView
+		            android:id="@+id/blogMImg"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:layout_gravity="center_horizontal"
+		            android:gravity="center"
+		            android:src="@drawable/loading" />
+
+		        <TextView
+		            android:id="@+id/time"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:layout_gravity="right"
+		            android:layout_marginRight="10dp"
+		            android:text="@string/time"
+		            android:textColor="@drawable/black" />
+		    </LinearLayout>
+	    </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="3dp"
+        android:layout_marginBottom="5dp" >
+
+        <Button
+            android:id="@+id/comment"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:background="@drawable/button_comment_b" />
+
+ 		<Button
+            android:id="@+id/forward"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/button_forward_b" />
+
+
+    </LinearLayout>
+
+</LinearLayout>

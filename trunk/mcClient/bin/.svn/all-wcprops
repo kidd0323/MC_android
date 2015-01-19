@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/mcclient/!svn/ver/40/trunk/mcClient/bin
+END
+mcClient.apk
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/mcclient/!svn/ver/40/trunk/mcClient/bin/mcClient.apk
+END
+resources.ap_
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/mcclient/!svn/ver/40/trunk/mcClient/bin/resources.ap_
+END
+classes.dex
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/mcclient/!svn/ver/40/trunk/mcClient/bin/classes.dex
+END

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:id="@+id/llpostblog"
+    android:background="@drawable/bg_comment">
+
+    <Button
+        android:id="@+id/postBT"
+        android:layout_width="70dp"
+        android:layout_height="25dp"
+        android:layout_marginLeft="240dp"
+        android:layout_marginTop="4dp"
+        android:background="@drawable/button_send"
+        android:focusable="true" />
+
+    <EditText
+        android:id="@+id/postContent"
+        android:gravity="top"
+        android:layout_width="match_parent"
+        android:layout_height="394dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginBottom="55dp"
+        android:layout_weight="0.78"
+        android:background="@android:color/transparent"
+        android:inputType="textMultiLine" >
+        <requestFocus />
+    </EditText>
+</LinearLayout>

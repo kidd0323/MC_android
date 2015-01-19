@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/mcclient/!svn/ver/3/trunk/mcClient/bin/classes/com/client/entity
+END
+PrivateMsgPackage.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/mcclient/!svn/ver/3/trunk/mcClient/bin/classes/com/client/entity/PrivateMsgPackage.class
+END
+BlogPackage.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mcclient/!svn/ver/3/trunk/mcClient/bin/classes/com/client/entity/BlogPackage.class
+END
+RegionPackage.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/mcclient/!svn/ver/3/trunk/mcClient/bin/classes/com/client/entity/RegionPackage.class
+END
+Blog.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/mcclient/!svn/ver/3/trunk/mcClient/bin/classes/com/client/entity/Blog.class
+END
+AD.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/mcclient/!svn/ver/3/trunk/mcClient/bin/classes/com/client/entity/AD.class
+END
+CampusPackage.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/mcclient/!svn/ver/3/trunk/mcClient/bin/classes/com/client/entity/CampusPackage.class
+END
+ChatMessage.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mcclient/!svn/ver/3/trunk/mcClient/bin/classes/com/client/entity/ChatMessage.class
+END
+LoginPackage.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/mcclient/!svn/ver/3/trunk/mcClient/bin/classes/com/client/entity/LoginPackage.class
+END
+CommentMsgPackage.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/mcclient/!svn/ver/3/trunk/mcClient/bin/classes/com/client/entity/CommentMsgPackage.class
+END
+Comments.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mcclient/!svn/ver/3/trunk/mcClient/bin/classes/com/client/entity/Comments.class
+END
+Campus.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/mcclient/!svn/ver/3/trunk/mcClient/bin/classes/com/client/entity/Campus.class
+END

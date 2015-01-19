@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/mycampus"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp" >
+        <Spinner
+            android:id="@+id/regionSpinner"
+            android:layout_width="113dp"
+            android:layout_height="53dp"
+            android:layout_marginLeft="35dp"
+            android:layout_marginTop="5dp"
+            android:paddingLeft="10dp"
+            android:gravity="center" 
+            android:textStyle="bold"
+            android:textColor="@drawable/white"
+            android:ellipsize = "marquee"
+            android:singleLine="true"
+            android:background="@drawable/region" />
+
+        <Spinner
+            android:id="@+id/campusSpinner"
+            android:layout_width="112dp"
+            android:layout_height="53dp"
+            android:layout_marginLeft="21dp"
+            android:layout_marginRight="40dp"
+            android:layout_marginTop="5dp"
+            android:paddingLeft="10dp"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textColor="@drawable/white"
+            android:ellipsize = "marquee"
+            android:singleLine="true"
+            android:background="@drawable/region" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+    </LinearLayout>
+
+
+
+    <LinearLayout
+        android:id="@+id/linearLayout3"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:layout_marginTop="190dp" >
+
+        <Button
+            android:id="@+id/goLogin"
+            android:layout_width="113dp"
+            android:layout_height="53dp"
+            android:layout_marginLeft="35dp"
+            android:background="@drawable/login" />
+
+        <Button
+            android:id="@+id/hangAround"
+            android:layout_width="113dp"
+            android:layout_height="53dp"
+            android:layout_marginLeft="21dp"
+            android:background="@drawable/hangaround" />
+
+    </LinearLayout>
+
+</LinearLayout>

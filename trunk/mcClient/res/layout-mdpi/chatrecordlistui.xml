@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:src="@android:color/transparent"
+    android:background="@android:color/transparent">
+
+	<LinearLayout
+	    android:id="@+id/titlelayout"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_gravity="right"
+	    android:paddingRight="10dp"
+	    android:paddingLeft="10dp"
+	    android:orientation="horizontal" >
+
+	    <ImageView
+	        android:id="@+id/chatphoto"
+	        android:layout_width="50dp"
+	        android:layout_height="50dp"
+	        android:scaleType="fitCenter"
+	        android:src="@drawable/ic_launcher" />
+
+	    <TextView
+	        android:id="@+id/chatRecordAuthor"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_marginTop="5dp"
+	        android:text="@string/chatAuthor"
+	        android:textAppearance="?android:attr/textAppearanceMedium"
+	        android:textColor="@drawable/black" />
+
+	    <ImageView
+	        android:id="@+id/chatphotoMe"
+	        android:layout_width="50dp"
+	        android:layout_height="50dp"
+	        android:layout_gravity="right"
+	        android:src="@drawable/ic_launcher" />
+
+	</LinearLayout>
+	<TextView
+	            android:id="@+id/chatRecordContent"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_gravity="center"
+	            android:layout_marginLeft="10dp"
+	            android:layout_marginRight="10dp"
+	            android:layout_marginTop="5dp"
+	        	android:textColor="@drawable/black" 
+	            android:text="@string/chatContent" />
+	<TextView
+            android:id="@+id/chatTime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="3dp"
+            android:text="@string/chatTime"
+        	android:textColor="@drawable/black" 
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textSize="13dp" />
+</LinearLayout>

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/mcclient/!svn/ver/18/trunk/mcClient/src/com/client/util
+END
+JsonUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/mcclient/!svn/ver/3/trunk/mcClient/src/com/client/util/JsonUtil.java
+END
+ConnUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/mcclient/!svn/ver/18/trunk/mcClient/src/com/client/util/ConnUtil.java
+END
+SysUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/mcclient/!svn/ver/3/trunk/mcClient/src/com/client/util/SysUtil.java
+END

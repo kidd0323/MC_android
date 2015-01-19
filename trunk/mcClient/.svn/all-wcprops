@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/mcclient/!svn/ver/42/trunk/mcClient
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/mcclient/!svn/ver/3/trunk/mcClient/.classpath
+END
+proguard.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/mcclient/!svn/ver/3/trunk/mcClient/proguard.cfg
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/mcclient/!svn/ver/3/trunk/mcClient/project.properties
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/mcclient/!svn/ver/3/trunk/mcClient/.project
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/mcclient/!svn/ver/18/trunk/mcClient/AndroidManifest.xml
+END
+GifView.jar
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/mcclient/!svn/ver/3/trunk/mcClient/GifView.jar
+END
+OriginalAndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/mcclient/!svn/ver/3/trunk/mcClient/OriginalAndroidManifest.xml
+END

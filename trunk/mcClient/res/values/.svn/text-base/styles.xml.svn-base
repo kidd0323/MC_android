@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="blackText" parent="@android:style/Widget.EditText">
+        android:textColor="@drawable/black" 
+    </style>
+
+</resources>

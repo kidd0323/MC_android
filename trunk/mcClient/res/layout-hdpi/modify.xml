@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/modifyschool" >
+
+    <TextView
+        android:id="@+id/curregion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="150dp"
+        android:layout_marginTop="80dp"
+        android:text=""
+        android:textColor="#000000"
+        android:textSize="20dip" />
+
+    <TextView
+        android:id="@+id/curschool"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="150dp"
+        android:layout_marginTop="25dp"
+        android:text=""
+        android:textColor="#000000"
+        android:textSize="20dip" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="40dp" >
+
+        <Spinner
+            android:id="@+id/spinner1"
+            android:layout_width="85dp"
+            android:layout_height="38dp"
+            android:layout_marginLeft="35dp"
+            android:layout_marginTop="39dp"
+            android:paddingLeft="10dp"
+            android:gravity="center" 
+            android:textStyle="bold"
+            android:textColor="@drawable/white"
+            android:ellipsize = "marquee"
+            android:singleLine="true"
+            android:background="@drawable/down1" />
+
+        <Spinner
+            android:id="@+id/spinner2"
+            android:layout_width="112dp"
+            android:layout_height="38dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="40dp"
+            android:layout_marginTop="39dp"
+            android:background="@drawable/down2"
+            android:ellipsize="marquee"
+            android:gravity="center"
+            android:paddingLeft="10dp"
+            android:singleLine="true"
+            android:textColor="@drawable/white"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:text="" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="80dp" >
+
+        <Button
+            android:id="@+id/confirm"
+            android:layout_width="125dp"
+            android:layout_height="45dp"
+            android:layout_marginLeft="50dp"
+            android:layout_weight="0.12"
+            android:background="@drawable/button_confirm" />
+
+        <Button
+            android:id="@+id/cancel"
+            android:layout_width="132dp"
+            android:layout_height="45dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="45dp"
+            android:layout_weight="0.11"
+            android:background="@drawable/button_cancel" />
+
+    </LinearLayout>
+
+</LinearLayout>

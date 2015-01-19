@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.client"
+    android:versionCode="1"
+    android:versionName="1.0" >
+    <uses-sdk android:minSdkVersion="8" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <supports-screens android:largeScreens="true"
+       android:normalScreens="true" android:anyDensity="true"
+       android:smallScreens="true"></supports-screens>
+    <application
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name">
+        <activity
+            android:name=".view.StartView"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".view.MyCampusView"
+            android:screenOrientation="portrait"
+            android:label="@string/myCampus"></activity>
+        <activity android:name=".view.LoginView"
+            android:screenOrientation="portrait"
+            android:label="@string/Login"></activity>
+        <activity android:name=".view.BlocksView"
+            android:screenOrientation="portrait"
+            android:label="@string/Blocks"></activity>
+        <activity android:name=".view.MsgDealView"
+            android:screenOrientation="portrait"
+            android:label="@string/msgDeal"></activity>
+        <activity android:name=".view.ChannelView"
+            android:screenOrientation="portrait"
+            android:label="@string/channel"></activity>
+        <activity android:name=".view.BlogView"
+            android:screenOrientation="portrait"
+            android:label="@string/blogInfo"></activity>
+        <activity android:name=".view.CommentView"
+            android:screenOrientation="portrait"
+            android:label="@string/blogComment"></activity>
+        <activity android:name=".view.ChatView"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan"
+            android:label="@string/chat"></activity>
+        <activity android:name=".view.OriginalImgView"
+            android:label="@string/originImg"></activity>
+        <activity android:name=".view.web"
+            android:label="@string/gotourl"></activity>
+        <activity android:name=".view.set"
+            android:screenOrientation="portrait"
+            android:label="@string/setinfo"></activity>
+        <activity android:name=".view.guide"
+            android:screenOrientation="portrait"
+            android:label="@string/guideinfo"></activity>
+        <activity android:name=".view.about"
+            android:screenOrientation="portrait"
+            android:label="@string/aboutinfo"></activity>
+        <activity android:name=".view.feedback"
+            android:screenOrientation="portrait"
+            android:label="@string/feedbackinfo"></activity>
+        <activity android:name=".view.modify"
+            android:screenOrientation="portrait"
+            android:label="@string/modifyinfo"></activity>
+        <activity android:name=".view.password"
+            android:screenOrientation="portrait"
+            android:label="@string/passwordinfo"></activity>
+        <activity android:name=".view.inviteFriend"
+            android:screenOrientation="portrait"
+            android:label="@string/invitefriendinfo"></activity>
+        <activity android:name=".view.BlogCommentsView"
+            android:screenOrientation="portrait"
+            android:label="@string/commentTitle"></activity>
+        <activity android:name=".view.picshow"
+            android:screenOrientation="portrait"
+            android:label="@string/picshowinfo"></activity>
+        <activity android:name=".view.CommentBlogView"
+            android:screenOrientation="portrait"
+            android:label="@string/commentTitle"></activity>
+        <activity android:name=".view.ForwardView"
+            android:screenOrientation="portrait"
+            android:label="@string/forward"></activity>
+        <activity android:name=".view.guidetwo"
+            android:screenOrientation="portrait"
+            android:label="@string/guideinfo"></activity>
+        <activity android:name=".view.MyGallery"
+            android:screenOrientation="portrait"
+            android:label="@string/guideinfo"></activity>
+        <activity android:name=".view.PostBlogView"
+            android:screenOrientation="portrait"
+            android:label="@string/postblog"></activity>
+    </application>
+</manifest>

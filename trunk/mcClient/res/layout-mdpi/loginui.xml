@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/loginui"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <EditText
+            android:id="@+id/usernameEditText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:singleLine="true"
+            android:layout_marginLeft="82dp"
+            android:layout_marginRight="40dp"
+            android:layout_marginTop="68dp"
+            android:layout_weight="0.39"
+            android:textSize="20sp" >
+
+            <requestFocus />
+        </EditText>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <EditText
+            android:id="@+id/passwordEditText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="82dp"
+            android:singleLine="true"
+            android:layout_marginRight="40dp"
+            android:layout_marginTop="27dp"
+            android:layout_weight="0.84"
+            android:inputType="textPassword"
+            android:textSize="20sp" />
+
+    </LinearLayout>
+	<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                  android:orientation="horizontal"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content">
+    <CheckBox
+        android:id="@+id/rememberMeCB"
+        android:layout_width="36dp"
+        android:layout_height="36dp"
+        android:layout_marginLeft="98dp"
+        android:layout_marginTop="25dp" />
+        
+    <TextView
+        android:id="@+id/rememberMeText"
+        android:layout_width="110dp"
+        android:layout_height="27dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="25dp"
+        android:textSize="23sp"
+        android:text="@string/rememberMe"
+        android:textColor="#3B6018"/>
+        
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp" >
+
+        <Button
+            android:id="@+id/submit"
+            android:layout_width="75dp"
+            android:layout_height="45dp"
+            android:layout_marginLeft="55dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/loginbt" />
+            
+        <Button
+            android:id="@+id/toRegister"
+            android:layout_width="75dp"
+            android:layout_height="45dp"
+            android:layout_marginLeft="60dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/registerbt" />
+
+    </LinearLayout>
+
+</LinearLayout>

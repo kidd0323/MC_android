@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>  
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/fdbg"
+    android:orientation="vertical" >
+
+    <EditText
+        android:id="@+id/fdContent"
+        android:layout_width="288dp"
+        android:layout_height="350dp"
+        android:layout_marginBottom="55dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="33dp"
+        android:background="@android:color/transparent"
+        android:gravity="top"
+        android:text="#意见反馈# @校园活动微直播    "
+        android:inputType="textMultiLine"
+        android:textColor="#000000"
+        android:textSize="20dip" >
+
+        <requestFocus />
+    </EditText>
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <Button
+            android:id="@+id/mSend"
+            android:layout_width="106dp"
+            android:layout_height="42dp"
+            android:layout_marginLeft="45dp"
+            android:layout_weight="0.06"
+            android:background="@drawable/button_send" />
+
+        <Button
+            android:id="@+id/mCancel"
+            android:layout_width="106dp"
+            android:layout_height="42dp"
+            android:layout_marginLeft="18dp"
+            android:layout_marginRight="50dp"
+            android:layout_weight="0.80"
+            android:background="@drawable/button_cancel" />
+
+    </LinearLayout>
+
+</LinearLayout> 

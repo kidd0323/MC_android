@@ -1,0 +1,953 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/mcclient/!svn/ver/31/trunk/mcClient/res/drawable-hdpi
+END
+bg_message.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/bg_message.png
+END
+mail_b_ck.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/mail_b_ck.png
+END
+linkxl.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/linkxl.png
+END
+national.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/mcclient/!svn/ver/28/trunk/mcClient/res/drawable-hdpi/national.png
+END
+examb_ck.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/examb_ck.png
+END
+button_national.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/mcclient/!svn/ver/28/trunk/mcClient/res/drawable-hdpi/button_national.xml
+END
+back_ck.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/back_ck.png
+END
+comment_b_ck.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/comment_b_ck.png
+END
+national_ck.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/mcclient/!svn/ver/28/trunk/mcClient/res/drawable-hdpi/national_ck.png
+END
+announceb_ck.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/announceb_ck.png
+END
+button_cancel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/button_cancel.xml
+END
+infomodify.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/infomodify.jpg
+END
+button_modifyb.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/button_modifyb.xml
+END
+refreshb.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/refreshb.png
+END
+button_replyb.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/button_replyb.xml
+END
+button_inout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/button_inout.xml
+END
+button_refreshb.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/button_refreshb.xml
+END
+bbsb.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/mcclient/!svn/ver/27/trunk/mcClient/res/drawable-hdpi/bbsb.png
+END
+button_modifyinfo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/button_modifyinfo.xml
+END
+button_comment_b.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/button_comment_b.xml
+END
+pwmodify_ck.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/pwmodify_ck.png
+END
+ic_launcher.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/ic_launcher.png
+END
+aboutinfo.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/aboutinfo.jpg
+END
+button_picb.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/button_picb.xml
+END
+imageb.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/imageb.png
+END
+nextpage_ck.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/nextpage_ck.png
+END
+send.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/send.png
+END
+official_ck.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/official_ck.png
+END
+bg_blog.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/bg_blog.png
+END
+settingb_ck.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/settingb_ck.png
+END
+button_message_b.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/button_message_b.xml
+END
+button_bregister.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/button_bregister.xml
+END
+inout.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/inout.png
+END
+button_foodb.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/button_foodb.xml
+END
+feedback_ck.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/feedback_ck.png
+END
+hangaround_ck.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/hangaround_ck.png
+END
+bregister_ck.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/bregister_ck.png
+END
+button_examb.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/button_examb.xml
+END
+postb_ck.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/postb_ck.png
+END
+forward_b.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/forward_b.png
+END
+loginui.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/loginui.png
+END
+button_linkxl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/button_linkxl.xml
+END
+indexb.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/indexb.png
+END
+loginbt_ck.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/loginbt_ck.png
+END
+jobb.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/jobb.png
+END
+refreshb_ck.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/refreshb_ck.png
+END
+button_announceb.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/button_announceb.xml
+END
+submit_b_ck.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/submit_b_ck.png
+END
+forward_b_ck.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/forward_b_ck.png
+END
+bbsb_ck.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/mcclient/!svn/ver/27/trunk/mcClient/res/drawable-hdpi/bbsb_ck.png
+END
+button_setting_b.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/button_setting_b.xml
+END
+foodb.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/foodb.png
+END
+startpage.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/mcclient/!svn/ver/31/trunk/mcClient/res/drawable-hdpi/startpage.png
+END
+modifyschool.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/modifyschool.jpg
+END
+setting_b_ck.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/setting_b_ck.png
+END
+examb.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/examb.png
+END
+mycampus.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/mycampus.png
+END
+button_postb.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/button_postb.xml
+END
+submit_b.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/submit_b.jpg
+END
+modifyinfo.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/modifyinfo.png
+END
+invitefriend_ck.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/invitefriend_ck.png
+END
+button_hotb.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/button_hotb.xml
+END
+button_confirm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/button_confirm.xml
+END
+button_back.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/button_back.xml
+END
+bg_comment.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/bg_comment.png
+END
+settingb.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/settingb.png
+END
+button_login.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/button_login.xml
+END
+guidenh.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/guidenh.jpg
+END
+bg_channel.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/bg_channel.png
+END
+title.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/title.png
+END
+region.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/region.png
+END
+bg_oricomment.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/bg_oricomment.png
+END
+button_settingb.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/button_settingb.xml
+END
+confirmwb.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/confirmwb.png
+END
+messageb.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/messageb.png
+END
+postb.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/postb.png
+END
+down2.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/down2.png
+END
+button_imageb.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/button_imageb.xml
+END
+changeusr_ck.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/changeusr_ck.png
+END
+button_messageb.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/button_messageb.xml
+END
+button_invitefriend.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/button_invitefriend.xml
+END
+activityb.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/activityb.png
+END
+guideh.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/guideh.jpg
+END
+button_guide.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/button_guide.xml
+END
+button_loginbt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/button_loginbt.xml
+END
+default_head.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/mcclient/!svn/ver/29/trunk/mcClient/res/drawable-hdpi/default_head.png
+END
+login.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/login.png
+END
+hotb_ck.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/hotb_ck.png
+END
+official.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/official.png
+END
+linkxl_ck.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/linkxl_ck.png
+END
+button_registerbt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/button_registerbt.xml
+END
+button_about.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/button_about.xml
+END
+message_b.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/message_b.jpg
+END
+pw.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/pw.jpg
+END
+button_official.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/button_official.xml
+END
+feedback.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/feedback.png
+END
+beauty.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/beauty.jpg
+END
+about_ck.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/about_ck.png
+END
+button_feedback.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/button_feedback.xml
+END
+button_hangaround.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/button_hangaround.xml
+END
+guide.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/guide.png
+END
+setting_b.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/setting_b.jpg
+END
+about.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/about.png
+END
+guide_ck.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/guide_ck.png
+END
+button_submit_b.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/button_submit_b.xml
+END
+inout_ck.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/inout_ck.png
+END
+button_forward_b.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/button_forward_b.xml
+END
+picb.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/picb.png
+END
+loading.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/mcclient/!svn/ver/29/trunk/mcClient/res/drawable-hdpi/loading.png
+END
+button_bbsb.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/button_bbsb.xml
+END
+changeusr.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/changeusr.png
+END
+modifyinfo_ck.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/modifyinfo_ck.png
+END
+mail_b.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/mail_b.png
+END
+login_ck.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/login_ck.png
+END
+registerbt_ck.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/registerbt_ck.png
+END
+picb_ck.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/picb_ck.png
+END
+confirm.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/confirm.png
+END
+pwmodify.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/pwmodify.png
+END
+fdbg.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/fdbg.jpg
+END
+button_send.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/button_send.xml
+END
+comment_b.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/comment_b.png
+END
+button_pwmodify.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/button_pwmodify.xml
+END
+send_ck.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/send_ck.png
+END
+web.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/web.jpg
+END
+registerbt.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/registerbt.png
+END
+confirm_ck.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/confirm_ck.png
+END
+button_jobb.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/button_jobb.xml
+END
+bg_list.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/bg_list.png
+END
+button_nextpage_b.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/button_nextpage_b.xml
+END
+cancel.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/cancel.png
+END
+indexb_ck.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/indexb_ck.png
+END
+hangaround.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/hangaround.png
+END
+bregister.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/bregister.png
+END
+bg_chat.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/bg_chat.png
+END
+set.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/set.jpg
+END
+button_changeusrb.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/button_changeusrb.xml
+END
+hotb.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/hotb.png
+END
+replyb.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/replyb.png
+END
+loginbt.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/loginbt.png
+END
+back.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/back.png
+END
+imageb_ck.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/imageb_ck.png
+END
+message_b_ck.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/message_b_ck.png
+END
+cancel_ck.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/cancel_ck.png
+END
+messageb_ck.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/messageb_ck.png
+END
+ifbg.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/ifbg.jpg
+END
+confirmwb_ck.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/confirmwb_ck.png
+END
+button_activityb.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/button_activityb.xml
+END
+foodb_ck.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/foodb_ck.png
+END
+announceb.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/announceb.png
+END
+replyb_ck.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/replyb_ck.png
+END
+activityb_ck.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/activityb_ck.png
+END
+nextpage.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/nextpage.png
+END
+email.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/email.jpg
+END
+invitefriend.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/invitefriend.png
+END
+down1.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/down1.png
+END
+bg.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/bg.png
+END
+jobb_ck.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/jobb_ck.png
+END
+button_mail_b.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/drawable-hdpi/button_mail_b.xml
+END

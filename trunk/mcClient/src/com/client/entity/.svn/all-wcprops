@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/mcclient/!svn/ver/3/trunk/mcClient/src/com/client/entity
+END
+BlogPackage.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/mcclient/!svn/ver/3/trunk/mcClient/src/com/client/entity/BlogPackage.java
+END
+RegionPackage.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/mcclient/!svn/ver/3/trunk/mcClient/src/com/client/entity/RegionPackage.java
+END
+Blog.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/mcclient/!svn/ver/3/trunk/mcClient/src/com/client/entity/Blog.java
+END
+AD.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/mcclient/!svn/ver/3/trunk/mcClient/src/com/client/entity/AD.java
+END
+CampusPackage.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/mcclient/!svn/ver/3/trunk/mcClient/src/com/client/entity/CampusPackage.java
+END
+ChatMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/mcclient/!svn/ver/3/trunk/mcClient/src/com/client/entity/ChatMessage.java
+END
+LoginPackage.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mcclient/!svn/ver/3/trunk/mcClient/src/com/client/entity/LoginPackage.java
+END
+CommentMsgPackage.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mcclient/!svn/ver/3/trunk/mcClient/src/com/client/entity/CommentMsgPackage.java
+END
+Comments.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/mcclient/!svn/ver/3/trunk/mcClient/src/com/client/entity/Comments.java
+END
+Campus.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/mcclient/!svn/ver/3/trunk/mcClient/src/com/client/entity/Campus.java
+END
+PrivateMsgPackage.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mcclient/!svn/ver/3/trunk/mcClient/src/com/client/entity/PrivateMsgPackage.java
+END

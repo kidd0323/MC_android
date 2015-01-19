@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@drawable/web">
+
+
+    <TextView
+        android:id="@+id/textView1"
+        android:textColor="#000000"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="                 【爱校园】"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+
+    <TextView
+        android:id="@+id/textView2"
+        android:textColor="#000000"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="1.爱校园是一个朋友之间分享交流信息的微博工具。
+"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+
+
+    <TextView
+        android:id="@+id/textView3"
+        android:textColor="#000000"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="2.点击你想评论的微博消息后的[回复]。"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+
+
+
+    <TextView
+        android:id="@+id/textView4"
+        android:textColor="#000000"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="3.点击你想私信的微博消息后的[私信]。"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+</LinearLayout>

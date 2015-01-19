@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_channel"
+    android:layout_gravity="center"
+    android:orientation="vertical">
+    <LinearLayout
+	        android:id="@+id/linearLayout1"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_marginTop="5dp"
+	        android:layout_marginLeft="10dp"
+	        android:layout_marginRight="10dp"
+	        android:layout_gravity="center">
+
+	        <TextView
+	            android:id="@+id/commentTitle"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_gravity="center"
+	            android:layout_marginLeft="100dp"
+	            android:layout_marginTop="3dp"
+	            android:layout_weight="0.48"
+	            android:ellipsize="marquee"
+	            android:gravity="center_vertical"
+	            android:singleLine="true"
+	            android:text="@string/commentTitle"
+	            android:textColor="@drawable/white"
+	            android:textSize="20sp" />
+
+	        <Button
+	            android:id="@+id/blogCommentRefresh"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_marginLeft="30dp"
+	            android:background="@drawable/button_refreshb" />
+	</LinearLayout>
+	<LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="22dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:orientation="vertical" >
+        <ListView
+            android:id="@+id/blogComments"
+            android:layout_width="300dp"
+            android:layout_height="330dp"
+            android:background="@drawable/bg_list"
+            android:cacheColorHint="#000000"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="5dp"
+	        android:fadeScrollbars="false" 
+	        android:fadingEdge="none">
+        </ListView>
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/commentBlogBT"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="95dp"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/button_comment_b"
+        android:gravity="center" />
+</LinearLayout>

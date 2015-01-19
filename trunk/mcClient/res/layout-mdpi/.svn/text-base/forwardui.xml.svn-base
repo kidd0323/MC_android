@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@drawable/bg_comment">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+	    <Button
+	        android:id="@+id/forwardBT"
+	        android:layout_width="wrap_content"
+	        android:layout_height="30dp"
+	        android:layout_gravity="right"
+	        android:layout_marginLeft="200dp"
+	        android:layout_marginTop="2dp"
+	        android:background="@drawable/forward_b"
+	        android:focusable="true" />
+	    <CheckBox
+	        android:id="@+id/cmtToo"
+	        android:layout_width="150dp"
+	        android:layout_height="40dp"
+	        android:layout_gravity="left"
+	        android:layout_marginLeft="10dp"
+	        android:text="@string/cmtToo"
+	        android:textColor="@drawable/black"
+	        android:textSize="13dip" />
+
+	</LinearLayout>
+
+    <EditText
+        android:id="@+id/forwardContent"
+        android:layout_width="match_parent"
+        android:layout_height="330dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="15dp"
+        android:background="@android:color/transparent"
+        android:gravity="top"
+        android:inputType="textMultiLine" >
+
+        <requestFocus />
+    </EditText>
+
+</LinearLayout>

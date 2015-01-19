@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/mcclient/!svn/ver/42/trunk/mcClient/res/values
+END
+colors.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/mcclient/!svn/ver/3/trunk/mcClient/res/values/colors.xml
+END
+styles.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/mcclient/!svn/ver/3/trunk/mcClient/res/values/styles.xml
+END
+strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/mcclient/!svn/ver/42/trunk/mcClient/res/values/strings.xml
+END
+attrs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/mcclient/!svn/ver/3/trunk/mcClient/res/values/attrs.xml
+END

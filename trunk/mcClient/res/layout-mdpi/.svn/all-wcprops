@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/mcclient/!svn/ver/33/trunk/mcClient/res/layout-mdpi
+END
+chatheaderview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/mcclient/!svn/ver/3/trunk/mcClient/res/layout-mdpi/chatheaderview.xml
+END
+feedback.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/mcclient/!svn/ver/3/trunk/mcClient/res/layout-mdpi/feedback.xml
+END
+postblogui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/mcclient/!svn/ver/3/trunk/mcClient/res/layout-mdpi/postblogui.xml
+END
+modify.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/mcclient/!svn/ver/3/trunk/mcClient/res/layout-mdpi/modify.xml
+END
+secondguide.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/mcclient/!svn/ver/3/trunk/mcClient/res/layout-mdpi/secondguide.xml
+END
+originalimgviewui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/mcclient/!svn/ver/13/trunk/mcClient/res/layout-mdpi/originalimgviewui.xml
+END
+set.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/mcclient/!svn/ver/3/trunk/mcClient/res/layout-mdpi/set.xml
+END
+startui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/mcclient/!svn/ver/3/trunk/mcClient/res/layout-mdpi/startui.xml
+END
+mycampusui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/mcclient/!svn/ver/20/trunk/mcClient/res/layout-mdpi/mycampusui.xml
+END
+guide.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/mcclient/!svn/ver/3/trunk/mcClient/res/layout-mdpi/guide.xml
+END
+password.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/mcclient/!svn/ver/3/trunk/mcClient/res/layout-mdpi/password.xml
+END
+forwardui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/mcclient/!svn/ver/3/trunk/mcClient/res/layout-mdpi/forwardui.xml
+END
+commentmsgviewui_notused.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mcclient/!svn/ver/3/trunk/mcClient/res/layout-mdpi/commentmsgviewui_notused.xml
+END
+blogcommentui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/mcclient/!svn/ver/19/trunk/mcClient/res/layout-mdpi/blogcommentui.xml
+END
+cmtmsgfooterview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/mcclient/!svn/ver/3/trunk/mcClient/res/layout-mdpi/cmtmsgfooterview.xml
+END
+commentblogui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/mcclient/!svn/ver/3/trunk/mcClient/res/layout-mdpi/commentblogui.xml
+END
+channelui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/mcclient/!svn/ver/3/trunk/mcClient/res/layout-mdpi/channelui.xml
+END
+channelspinner.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/mcclient/!svn/ver/3/trunk/mcClient/res/layout-mdpi/channelspinner.xml
+END
+about.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/mcclient/!svn/ver/3/trunk/mcClient/res/layout-mdpi/about.xml
+END
+blocksui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/mcclient/!svn/ver/27/trunk/mcClient/res/layout-mdpi/blocksui.xml
+END
+primsgfooterview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/mcclient/!svn/ver/3/trunk/mcClient/res/layout-mdpi/primsgfooterview.xml
+END
+blogui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/mcclient/!svn/ver/30/trunk/mcClient/res/layout-mdpi/blogui.xml
+END
+messageui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/mcclient/!svn/ver/3/trunk/mcClient/res/layout-mdpi/messageui.xml
+END
+listfooterview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/mcclient/!svn/ver/3/trunk/mcClient/res/layout-mdpi/listfooterview.xml
+END
+invitefriend.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/mcclient/!svn/ver/3/trunk/mcClient/res/layout-mdpi/invitefriend.xml
+END
+commentlistui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/mcclient/!svn/ver/3/trunk/mcClient/res/layout-mdpi/commentlistui.xml
+END
+blogcmtfooterview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/mcclient/!svn/ver/3/trunk/mcClient/res/layout-mdpi/blogcmtfooterview.xml
+END
+commentmsglistui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/mcclient/!svn/ver/30/trunk/mcClient/res/layout-mdpi/commentmsglistui.xml
+END
+firstguide.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/mcclient/!svn/ver/3/trunk/mcClient/res/layout-mdpi/firstguide.xml
+END
+loginui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/mcclient/!svn/ver/3/trunk/mcClient/res/layout-mdpi/loginui.xml
+END
+chatrecordlistui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/mcclient/!svn/ver/6/trunk/mcClient/res/layout-mdpi/chatrecordlistui.xml
+END
+privatemsglistui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/mcclient/!svn/ver/33/trunk/mcClient/res/layout-mdpi/privatemsglistui.xml
+END
+picshow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/mcclient/!svn/ver/24/trunk/mcClient/res/layout-mdpi/picshow.xml
+END
+bloglistui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/mcclient/!svn/ver/30/trunk/mcClient/res/layout-mdpi/bloglistui.xml
+END
+chatui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/mcclient/!svn/ver/3/trunk/mcClient/res/layout-mdpi/chatui.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/mcclient/!svn/ver/3/trunk/mcClient/res/layout-mdpi/web.xml
+END
+spinner.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/mcclient/!svn/ver/3/trunk/mcClient/res/layout-mdpi/spinner.xml
+END
